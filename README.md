@@ -56,3 +56,7 @@ Socket programming finds applications in various domains, including web developm
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
+<img width="2291" height="341" alt="Screenshot 2026-04-29 104659" src="https://github.com/user-attachments/assets/ffd2baca-37bd-4707-8088-6eba7dfe425a" />
+<img width="2766" height="477" alt="Screenshot 2026-04-29 104714" src="https://github.com/user-attachments/assets/d2a66f54-c6e5-4ad4-8556-a5a9ec4ef40c" />
+
+
